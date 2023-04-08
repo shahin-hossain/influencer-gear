@@ -92,4 +92,12 @@
         align-items: center;
 
     }
+
+    .featured-title {
+        text-align: center;
+    }
+
+    .featured-descripton {
+        text-align: center;
+    }
 }
